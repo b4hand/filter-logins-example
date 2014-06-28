@@ -1,0 +1,9 @@
+{
+    "data": [
+        {"email": "sjobs@apple.com", "login_date": "2014-04-10T11:22:33+00:00"},
+        {"email": "muaddib@dune.com", "login_date": "2014-05-17T05:04:03+00:00"},
+        {"email": "admin@nsa.com", "login_date": "2014-04-24T14:12:34+00:00"},
+        {"email": "richard@piedpiper.com", "login_date": "2014-04-01T01:02:03+00:00"},
+        {"email": "erlich@piedpiper.com", "login_date": "2014-01-01T01:01:01+00:00"}
+    ]
+}
